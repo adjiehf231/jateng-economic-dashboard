@@ -189,7 +189,7 @@ Jateng Economic Dashboard/
 
 ---
 ## 🚀 Live Dashboard
-https://jateng-economic-dashboard.streamlit.app/
+https://jateng-economic-dashboard.streamlit.app/](https://jateng-economic-dashboard-by-adjiehf231.streamlit.app/)
 ---
 ## ⚠️ Catatan Metodologi
 
